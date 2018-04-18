@@ -2,6 +2,8 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
+    //use this for the font fam
+<link href="https://fonts.googleapis.com/css?family=Comfortaa:700" rel="stylesheet">
 <meta charset="UTF-8">
 <title>Welcome</title>
 </head>
